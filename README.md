@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me: @santana_savio
-- ⚡ Fun fact: long-haired guy, but becoming bald
+- ⚡ Fun fact: long-haired guy, but becoming bald 
 
 <div>
    <a href="https://github.com/Antonio-Savio">
@@ -15,5 +15,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
