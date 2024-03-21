@@ -15,7 +15,8 @@
 | Relevance | Preview | Description | 
 |----------|----------|----------|
 | #1 | <img width="500" src="https://github.com/Antonio-Savio/Antonio-Savio/blob/main/desktop-version.gif" alt="pokedex"> | [Pokédex](https://github.com/Antonio-Savio/Pokedex-Query) - React project using PokéAPI. |
-| #2 | <img width="500" src="https://github.com/Antonio-Savio/Antonio-Savio/blob/main/form-desktop-version.gif" alt="form"> | [Form Validation](https://github.com/Antonio-Savio/Validation-Form) - JavaScript validation form.
+| #2 | <img width="500" src="https://github.com/Antonio-Savio/Antonio-Savio/blob/main/desktop-version-sushi-restaurant.gif" alt="sushi restaurant"> | [Sushi Restaurant](https://github.com/Antonio-Savio/sushi-restaurant) - React project landing page.
+| #3 | <img width="500" src="https://github.com/Antonio-Savio/Antonio-Savio/blob/main/form-desktop-version.gif" alt="form"> | [Form Validation](https://github.com/Antonio-Savio/Validation-Form) - JavaScript validation form. |
 
 ## Languages and Tools ⚙️
 <div style="display: inline_block"><br>
