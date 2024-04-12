@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React JS
-- 📫 How to reach me: savio.aragao@hotmail.com
-- ⚡ Fun fact: long-haired guy, but becoming bald 
-
 <div>
    <a href="https://github.com/Antonio-Savio">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Savio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
